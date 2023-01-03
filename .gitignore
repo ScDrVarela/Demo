@@ -1,0 +1,5 @@
+#The following line will ignore just the name.pdf
+#/random.pdf
+#If we want to igore all .ext file we may write:
+#*.ext for example, to ignora every .pdf file we write:
+*.pdf
